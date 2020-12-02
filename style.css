@@ -1,0 +1,49 @@
+
+   
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color:#000000;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff9d;
+    }
+.body{
+        background-color: #ffffff9d;
+        margin: 0px;
+    }
+    
+    .grid{
+        display: flex;
+        border: 2px solid  rgba(0,0,0);
+        border-radius: 50px;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        margin: 5px;
+        background-color:black;
+    
+    }
+    
+    .origami{
+        display: flex;
+        border-radius: 20px;
+        background-color:  rgba(255, 183, 0, 0.712);
+    
+        width: 310px;
+        font-family: fantasy;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding: 15px;
+        margin-bottom: 15px;
+    }
+    
+    .header{
+        padding: 5px;
+        margin: auto;
+    }
+    .bodyimg{
+        font-style: bold;
+    
+    }
+    
